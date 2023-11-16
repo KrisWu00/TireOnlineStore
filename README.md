@@ -44,5 +44,13 @@ NPM: Package manager for NodeJS
 
 Screenshot:
 
-Login & Logout: <img width="804" alt="Screen Shot 2023-11-16 at 2 14 24 PM" src="https://github.com/KrisWu00/TireOnlineStore/assets/112190068/b4ae78d7-6a00-4429-addd-766bcee93333">
+Login & Logout:
+<img width="804" alt="Screen Shot 2023-11-16 at 2 14 24 PM" src="https://github.com/KrisWu00/TireOnlineStore/assets/112190068/b4ae78d7-6a00-4429-addd-766bcee93333">
+
+signup: 
+<img width="794" alt="Screen Shot 2023-11-16 at 2 16 05 PM" src="https://github.com/KrisWu00/TireOnlineStore/assets/112190068/28e4b982-bc0e-49f8-a703-7937350026c2">
+
+
+
+
 
