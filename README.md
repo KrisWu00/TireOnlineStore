@@ -43,3 +43,6 @@ NPM: Package manager for NodeJS
 8. Open the browser and go to localhost:3000 to view the website
 
 Screenshot:
+
+Login & Logout: <img width="804" alt="Screen Shot 2023-11-16 at 2 14 24 PM" src="https://github.com/KrisWu00/TireOnlineStore/assets/112190068/b4ae78d7-6a00-4429-addd-766bcee93333">
+
