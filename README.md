@@ -14,3 +14,32 @@ Video: https://youtu.be/x8qGvV5bAas
 Slide: https://docs.google.com/presentation/d/1x2TQDMima5W9avYuwBohqxarRmwFDiJgMfMDT77gyWk/edit?usp=sharing
 
 Design Doc: https://docs.google.com/document/d/1-i64uskwFKd0kgt28FHCnywp8nk7NkniDFPyc1ohYEw/edit?usp=sharing
+
+# Project Objective:
+Learn and practice MERN web developing
+
+# Tech Requirement:
+Code Editor: such as Visual Studio Code
+
+Browser: Modern browsers like Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge for testing and viewing the website.
+
+GitHub: Platforms to host repositories, allowing for backup, sharing, and collaboration.
+
+MongoDB: Database
+
+NodeJS: Server-side JavaScript runtime environment
+
+NPM: Package manager for NodeJS
+
+# Instruction to build:
+
+1. Download the project from github
+2. Run $ npm install on root folder
+3. $ cd front, then run $ npm install in front (react) folder
+4. Run $ npm run build in front (react) folder
+5. Supply your own .env file containing MongoDB_URI to the root folder
+6. $ cd .. go back to root folder
+7. Use $ npm start to start the server
+8. Open the browser and go to localhost:3000 to view the website
+
+Screenshot:
